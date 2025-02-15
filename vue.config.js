@@ -6,4 +6,3 @@ module.exports = defineConfig({
 module.exports = {
   lintOnSave: false
 }
-Doppler__Health
