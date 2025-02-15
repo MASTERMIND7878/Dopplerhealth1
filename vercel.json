@@ -1,0 +1,6 @@
+{
+  "framework": "vue",
+  "routes": [
+    { "src": "/(.*)", "dest": "/index.html" }
+  ]
+}
